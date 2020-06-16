@@ -1,0 +1,463 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;600&display=swap');
+
+.header-flex {
+    display: flex;
+    flex-direction: row;
+}
+
+.header-size {
+    background-color: #fafafa;
+    width: 1308px;
+    height: 49px;
+}
+
+.header-font {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 13px;
+    color: #666666;
+}
+
+.header-padding {
+    padding: 10px 55px 17px 60px;
+}
+
+.header-nav {
+    color: #d42859;
+}
+
+/*______________________________________________________*/
+.header-padding_1 {
+    font-family: 'Open Sans', sans-serif;
+    padding-top: 8px;
+    padding-bottom: 17px;
+}
+
+.header-inline {
+    font-weight: bold;
+    color: #111111;
+    font-size: 15px;
+    display: inline;
+    margin-right: 50px;
+}
+
+.header-inline_1 {
+    font-weight: bold;
+    color: #111111;
+    font-size: 15px;
+    display: inline;
+    margin-left: -40px;
+    margin-right: 50px;
+}
+
+.header-inline_2 {
+    font-weight: bold;
+    color: #111111;
+    font-size: 15px;
+    display: inline;
+    margin-left: -40px;
+    margin-right: 50px;
+}
+
+.header-underline {
+    font-size: 10px;
+    color: #999999;
+    vertical-align: text-top;
+    margin-left: 110px;
+}
+
+/*______________________________________________________*/
+.header-padding_2 {
+    font-family: 'Open Sans', sans-serif;
+    padding-top: 10px;
+    padding-bottom: 17px;
+}
+
+.header-inline_3 {
+    display: inline;
+    font-size: 13px;
+    color: red;
+    margin-right: 15px;
+}
+
+.header-inline_4 {
+    display: inline;
+    font-size: 13px;
+    margin-right: 15px;
+}
+
+.header-inline_5 {
+    display: inline;
+    font-size: 13px;
+    margin-right: 15px;
+}
+
+.header-inline_6 {
+    display: inline;
+    font-size: 13px;
+}
+
+/*______________________________________________________*/
+
+.logo {
+    padding: 2px 60px 35px 60px;
+}
+
+.header-search input {
+    width: 268px;
+    height: 20px;
+    margin-top: 30px;
+    border: none;
+}
+
+.header-search .header-input {
+    border-bottom: 1px solid #D6D6D6;
+    width: 368px;
+    font-family: "Open Sans";
+    font-size: 14px;
+}
+
+.header-phone-image {
+    margin-left: 350px;
+    margin-top: 25px;
+    margin-right: 30px;
+}
+
+.header-heart-image {
+    margin-right: 30px;
+}
+
+.header-cart-image {
+    margin-right: 50px;
+}
+
+/*______________________________________________________*/
+.header-space {
+    justify-content: space-around;
+    width: 767px;
+    margin-top: -35px;
+    padding: 35px;
+    color: #111111;
+    font-family: "Open Sans";
+    font-size: 17px;
+}
+
+/*______________________________________________________*/
+.article-flex {
+    display: flex;
+    flex-direction: row;
+}
+
+.article-style {
+    font-family: "Open Sans";
+    margin-left: 50px;
+    margin-top: -40px;
+}
+
+h1 {
+    color: #111111;
+}
+
+.article-inline {
+    padding-right: 15px;
+}
+
+.article-text-dec {
+    color: #c5053b;
+    text-decoration: underline;
+}
+
+.article-inline_1 {
+    padding-right: 30px;
+}
+
+.article-inline_2 {
+    padding-right: 30px;
+}
+
+.article-inline_3 {
+    padding-right: 30px;
+}
+
+.article-inline_4 {
+    padding-right: 30px;
+    padding-bottom: 20px;
+}
+
+/*______________________________________________________*/
+.article-flowers-image {
+    margin-left: 50px;
+}
+
+.article-black {
+    position: absolute;
+    left: 58px;
+    bottom: -53px;
+}
+
+.article-black_1 {
+    position: absolute;
+    left: 58px;
+    bottom: -53px;
+}
+
+.article-position {
+    position: absolute;
+    top: 550px;
+    right: 620px;
+}
+
+.article-text-dec_1 {
+    color: #ffffff;
+    font-family: "Open Sans";
+}
+
+.article-word-dec {
+    font-size: 16px;
+    font-weight: bold;
+    padding-bottom: 5px;
+}
+
+.article-text-dec_1 {
+    font-size: 15px;
+}
+
+.article-nav {
+    color: #ffffff;
+}
+
+.article-inline_5 {
+    padding-right: 25px;
+    padding-top: 5px;
+    color: #ffffff;
+}
+
+.article-inline_6 {
+    padding-right: 30px;
+    padding-top: 5px;
+    color: #ffffff;
+}
+
+.article-inline_7 {
+    padding-top: 5px;
+    color: #ffffff;
+}
+
+.article-position-1 {
+    position: absolute;
+    top: 670px;
+    right: 800px;
+}
+
+.article-image {
+    padding-left: 15px;
+    padding-right: 10px;
+    padding-top: 5px;
+}
+/*______________________________________________________*/
+
+.article-woman-image {
+    margin-left: 50px;
+    margin-top: 25px;
+}
+
+.article-black_2 {
+    position: absolute;
+    left: 58px;
+    bottom: -502px;
+}
+
+.article-black_3 {
+    position: absolute;
+    left: 58px;
+    bottom: -502px;
+}
+
+.article-position_1 {
+    position: absolute;
+    top: 1000px;
+    right: 620px;
+}
+
+.article-inline_5 {
+    padding-right: 25px;
+    padding-top: 5px;
+    color: #ffffff;
+}
+
+.article-inline_6 {
+    padding-right: 30px;
+    padding-top: 5px;
+    color: #ffffff;
+}
+
+.article-inline_7 {
+    padding-top: 5px;
+    color: #ffffff;
+}
+
+.article-position-2 {
+    position: absolute;
+    top: 1120px;
+    right: 800px;
+}
+
+.article-image {
+    padding-left: 15px;
+    padding-right: 10px;
+    padding-top: 5px;
+}
+/*______________________________________________________*/
+
+.nav-style-list {
+    width: 369px;
+    height: 419px;
+    border: 1px solid black;
+    background-color: #fff9e5;
+}
+.nav-position {
+    margin: 20px 0px 30px 20px;
+}
+.nav-style-list_1 {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+}
+.nav-style-list_2 {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 15px;
+    margin: 20px 20px 20px 0px;
+}
+.nav-style-list_3 {
+    font-family: "Open Sans";
+    font-size: 15px;
+    text-decoration: underline;
+    color: #c5053b;
+}
+.nav-style-list_4 {
+    font-family: "Open Sans";
+    font-size: 13px;
+    color: #666666;
+}
+.nav-style-list_5 {
+    font-family: "Open Sans";
+    font-size: 15px;
+    text-decoration: underline;
+}
+.nav-style-list_6 {
+    font-family: "Open Sans";
+    font-size: 15px;
+}
+.nav-input {
+    height: 35px;
+    width: 265px;
+}
+.nav-input-image {
+    position: absolute;
+}
+.nav-input-form {
+    padding-bottom: 25px;
+}
+.nav-flex {
+    display: flex;
+}
+.nav-push {
+    margin: 0px 90px 30px 0px;
+}
+.nav-push_1 {
+    margin-right: 110px;
+}
+.nav-position .nav-style-list{
+    position: absolute;
+    top:290px;
+    right: 80px;
+}
+/*______________________________________________________*/
+
+.footer-box-size {
+    border: 1px solid #fafafa;
+    width: 1300px;
+    height: 320px;
+    background-color: #fafafa;
+}
+.footer-box-size_1 {
+    width: 496px;
+    height: 273px;
+    border: 1px solid #dbdbdb;
+    background-color: #ffffff;
+    margin: 25px 105px 35px 65px;
+}
+
+.footer-box-size_1 {
+    margin-left: 65px;
+}
+.footer-box-size_2 {
+    margin: 0px 30px 0px 30px;
+}
+.footer-box-size_3 {
+    margin: 10px 20px 0px 10px ;
+}
+.footer-box-size_4{
+    margin: 0px 110px 0px 110px;
+}
+.footer-box-style {
+    font-family: "Open Sans";
+    font-size: 14.5px;
+}
+.footer-box-style_1 {
+    width: 495px;
+    height: 215px;
+    border: 1px none #dbdbdb;
+    background-color: #ffffff;
+}
+.footer-box-flex {
+    display: flex;
+    margin: 30px 0px 20px 10px;
+}
+.footer-box-margin {
+    margin-bottom: 10px;
+    font-family: "Open Sans";
+    font-size: 14px;
+}
+.footer-box-margin_1{
+    margin-left: 10px;
+    padding-bottom: 10px;
+    font-family: "Open Sans";
+    font-size: 14px;
+}
+.footer-box-margin_2{
+    margin-bottom: 10px;
+}
+.footer-box-margin_3{
+    margin-bottom: 20px;
+}
+.dash {
+    width: 457px;
+    height: 1px;
+    border: 1px dashed #dbdbdb;
+    margin-bottom: 10px;
+    margin-left: 10px;
+}
+.footer-box-absolute {
+    position: absolute;
+    left: 700px;
+    bottom: -800px;
+}
+.footer-box-absolute_1 {
+    position: absolute;
+    left: 1000px;
+    bottom: -800px;
+}
+.footer-box-decoration{
+    color: white;
+    background-color: #c5053b;
+    border: 1px solid #c5053b;
+    width: 239px;
+    height: 26px;
+    font-family: "Open Sans";
+    font-size: 15px;
+    padding-left: 10px;
+    padding-top: 5px;
+}
+/*______________________________________________________*/
+
